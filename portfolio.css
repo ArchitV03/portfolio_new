@@ -44,7 +44,10 @@ nav .left{
     align-items: center;
     margin: 80px;
 }
-
+.fourthSection div a{
+    text-decoration: none;
+    color: white;
+}
 .firstSection > div{
     width: 35%;
 }
